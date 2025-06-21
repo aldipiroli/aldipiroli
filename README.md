@@ -7,6 +7,7 @@ These are some of recent projects that I have been recently working on:
 #### From Scratch Paper Implementations
 | Paper    | Code |
 | -------- | ------- |
+| ["Vision Transformers for Dense Prediction"](https://arxiv.org/abs/2103.13413) ICCV 2021  | [dpt_from_scratch](https://github.com/aldipiroli/dpt_from_scratch)    |
 | ["NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"](https://arxiv.org/abs/2003.08934) ECCV 2020  | [nerf_from_scratch](https://github.com/aldipiroli/nerf_from_scratch)    |
 | ["Segment Anything"](https://arxiv.org/abs/2304.02643) ICCV 2023  | [sam_from_scratch](https://github.com/aldipiroli/sam_from_scratch)    |
 | ["Masked Autoencoders Are Scalable Vision Learners"](https://arxiv.org/abs/2111.06377) CVPR 2022  | [mae_from_scratch](https://github.com/aldipiroli/mae_from_scratch)    |
