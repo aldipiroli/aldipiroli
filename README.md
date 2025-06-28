@@ -7,6 +7,7 @@ These are some of recent projects that I have been recently working on:
 #### From Scratch Paper Implementations
 | Paper    | Code |
 | -------- | ------- |
+| ["Improving Language Understanding by Generative Pre-Training"](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI GPT-1  | [gpt_from_scratch](https://github.com/aldipiroli/gpt_from_scratch)    |
 | ["Vision Transformers for Dense Prediction"](https://arxiv.org/abs/2103.13413) ICCV 2021  | [dpt_from_scratch](https://github.com/aldipiroli/dpt_from_scratch)    |
 | ["NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"](https://arxiv.org/abs/2003.08934) ECCV 2020  | [nerf_from_scratch](https://github.com/aldipiroli/nerf_from_scratch)    |
 | ["Segment Anything"](https://arxiv.org/abs/2304.02643) ICCV 2023  | [sam_from_scratch](https://github.com/aldipiroli/sam_from_scratch)    |
