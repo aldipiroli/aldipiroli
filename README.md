@@ -7,6 +7,7 @@ These are some of recent projects that I have been recently working on:
 #### From Scratch Paper Implementations
 | Paper    | Code |
 | -------- | ------- |
+| ["Learning Transferable Visual Models From Natural Language Supervision"](https://arxiv.org/abs/2103.00020) ICML 2021 (OpenAI CLIP) | [clip_from_scratch](https://github.com/aldipiroli/clip_from_scratch)    |
 | ["Improving Language Understanding by Generative Pre-Training"](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI GPT-1  | [gpt_from_scratch](https://github.com/aldipiroli/gpt_from_scratch)    |
 | ["Vision Transformers for Dense Prediction"](https://arxiv.org/abs/2103.13413) ICCV 2021  | [dpt_from_scratch](https://github.com/aldipiroli/dpt_from_scratch)    |
 | ["NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis"](https://arxiv.org/abs/2003.08934) ECCV 2020  | [nerf_from_scratch](https://github.com/aldipiroli/nerf_from_scratch)    |
@@ -14,6 +15,9 @@ These are some of recent projects that I have been recently working on:
 | ["Masked Autoencoders Are Scalable Vision Learners"](https://arxiv.org/abs/2111.06377) CVPR 2022  | [mae_from_scratch](https://github.com/aldipiroli/mae_from_scratch)    |
 | ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"](https://arxiv.org/pdf/2010.11929) ICLR 2021  | [ViT_from_scratch](https://github.com/aldipiroli/ViT_from_scratch)    |
 | ["PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"](https://arxiv.org/abs/1612.00593) CVPR 2017  | [pointnet_from_scratch](https://github.com/aldipiroli/pointnet_from_scratch)    |
+
+
+
 
 <!--
 **aldipiroli/aldipiroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
