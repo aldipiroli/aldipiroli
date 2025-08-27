@@ -2,7 +2,7 @@
 I am a machine learning engineer working on autonomous driving at BMW, more infos here: https://aldipiroli.github.io/
 
 ## Projects
-These are some of recent projects that I have been recently working on:
+These are some of recent projects that I have been recently working on my free time:
 
 #### From Scratch Paper Implementations
 | Paper    | Code |
