@@ -7,6 +7,7 @@ These are some of recent projects that I have been recently working on my free t
 #### From Scratch Paper Implementations
 | Paper    | Code |
 | -------- | ------- |
+| ["Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network"](https://arxiv.org/abs/1803.07835) ECCV 2018 | [prnet_from_scratch](https://github.com/aldipiroli/prnet_from_scratch)    |
 | ["ByteTrack: Multi-Object Tracking by Associating Every Detection Box"](https://arxiv.org/abs/2110.06864) ECCV 2022 | [ByteTrack_from_scratch](https://github.com/aldipiroli/ByteTrack_from_scratch)    |
 | ["Momentum Contrast for Unsupervised Visual Representation Learning"](https://arxiv.org/abs/1911.05722) CVPR 2020 | [moco_from_scratch](https://github.com/aldipiroli/moco_from_scratch)    |
 | ["Learning Transferable Visual Models From Natural Language Supervision"](https://arxiv.org/abs/2103.00020) OpenAI CLIP | [clip_from_scratch](https://github.com/aldipiroli/clip_from_scratch)    |
